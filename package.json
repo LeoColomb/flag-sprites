@@ -1,0 +1,13 @@
+{
+  "name": "flag-sprites",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.5.3",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-less": "*",
+    "grunt-spritesmith": "*",
+    "grunt-contrib-imagemin": "*"
+  }
+}
