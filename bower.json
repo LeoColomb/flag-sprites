@@ -1,11 +1,11 @@
 {
   "name": "flag-sprites",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "homepage": "https://github.com/LeoColomb/flag-sprites",
   "authors": [
     "Leo Colombaro"
   ],
-  "description": "Country flags in LESS sprite",
+  "description": "Country flags in a LESS sprite",
   "keywords": [
     "flag",
     "sprites",
