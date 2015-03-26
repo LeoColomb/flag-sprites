@@ -10,23 +10,23 @@ browser will need to make only two server requests instead of 247.
 Usage
 -----------
 
-Install bower
+* Install bower (if not already)
 ```
 $ npm install -g bower
 ```
 
-Get the package and persist it to bower.json
+* Get the package and persist it to your `bower.json`
 ```
 bower install flag-sprites --save
 ```
 
 
-Include the stylesheet
+* Include the stylesheet
 ```
 <link href="components/flag-sprites/dist/css/flag-sprites.min.css" rel="stylesheet" type="text/css"/>
 ```
 
-Use anywhere on your page
+* Use anywhere on your page
 ```
 <i class="flag flag-ca"></a>
 ```
