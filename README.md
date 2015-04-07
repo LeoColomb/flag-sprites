@@ -12,7 +12,7 @@ Usage
 
 * Install bower (if not already)
 ```
-$ npm install -g bower
+npm install -g bower
 ```
 
 * Get the package and persist it to your `bower.json`
