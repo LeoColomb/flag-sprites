@@ -11,23 +11,23 @@ Usage
 -----------
 
 * Install bower (if not already)
-```
+```bash
 npm install -g bower
 ```
 
 * Get the package and persist it to your `bower.json`
-```
+```bash
 bower install flag-sprites --save
 ```
 
 
 * Include the stylesheet
-```
+```html
 <link href="components/flag-sprites/dist/css/flag-sprites.min.css" rel="stylesheet" type="text/css"/>
 ```
 
 * Use anywhere on your page
-```
+```html
 <i class="flag flag-ca"></a>
 ```
 
