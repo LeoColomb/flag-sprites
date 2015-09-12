@@ -28,7 +28,7 @@ bower install flag-sprites --save
 
 * Use anywhere on your page
 ```html
-<i class="flag flag-ca"></a>
+<i class="flag flag-ca"></i>
 ```
 
 Attribution
